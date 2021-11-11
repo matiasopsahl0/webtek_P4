@@ -1,0 +1,15 @@
+#Header {
+    border-bottom: 1px solid black;
+  }
+  
+  body {
+    width: 60%;
+    margin-left: 20%;
+    background: rgb(237, 195, 204);
+    background: radial-gradient(
+      circle,
+      rgba(237, 195, 204, 0.6171510840664391) 48%,
+      rgba(202, 217, 235, 1) 100%
+    );
+    text-align: center;
+  }
